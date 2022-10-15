@@ -2,3 +2,5 @@ Repository of the two hacks Nicolas and I built as part of [http://stupidhacktor
 * [googlesearchpagesreordering.user.js](googlesearchpagesreordering.user.js) brings the search results from the 10th page on the first page, 9th page on the 2nd page, etc.
 * [googletelegrams.user.js](googletelegrams.user.js) reimagines each search query as a postcard sent to Google HQ from your current location
 
+Also the repository of the hack Oliver and I built as part of [http://www.hackstupid.com/](http://www.hackstupid.com/) 2022 using [Temper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and the [Nano Leaf Open API](https://press.nanoleaf.me/2022/04/11/all-about-the-nanoleaf-open-api-for-nanoleafs-tech-savvy-community-members/)
+* [autocompletegodliness.user.js](autocompletegodliness.user.js) uses the Google autocomplete API to figure out what's the likely next letter after the one you just entered and it uses the Nano Leaf shapes to show you where the next letter is in relation to the letter you just typed.
